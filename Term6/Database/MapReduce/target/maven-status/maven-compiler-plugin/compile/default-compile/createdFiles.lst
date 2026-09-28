@@ -1,0 +1,3 @@
+mapreduce/PrecipitationMapper.class
+mapreduce/RunMapReduceJob.class
+mapreduce/PrecipitationReducer.class
